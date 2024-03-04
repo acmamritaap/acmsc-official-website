@@ -20,7 +20,7 @@
 
 <h2>Installation</h2>
 
-<ul>
+<ul type="none">
 <li>
 <p>1. Clone this repository to your local machine:
 
@@ -59,7 +59,7 @@
 
 <h2>Contributing</h2>
 <p>We welcome contributions! If you’d like to contribute to the website, follow these steps:</p>
-<ul>
+<ul type="none">
 <li>1. Fork this repository.</li>
 <li>2. Create a new branch for your feature or bug fix.</li>
 <li>3. Make your changes and commit them.</li>
