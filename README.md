@@ -1,6 +1,6 @@
 ### ACM Student Chapter Website
 
-<p>Welcome to the **ACM Student Chapter, Amrita Vishwa Vidyapeetham** website! This repository contains the code and assets for our chapter's website. We've used **Tailwind CSS** for styling, and it's been a fantastic choice for creating a clean and responsive design.</p>
+<p>Welcome to the <b>ACM Student Chapter, Amrita Vishwa Vidyapeetham</b> website! This repository contains the code and assets for our chapter's website. We've used **Tailwind CSS** for styling, and it's been a fantastic choice for creating a clean and responsive design.</p>
 
 <h2>Table of Contents</h2>
 
