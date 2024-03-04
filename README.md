@@ -4,7 +4,7 @@
 
 <h2>Table of Contents</h2>
 
-<ul>
+<ul type="none">
 <li>1. Getting Started</li>
 <li>2. Installation</li>
 <li>3. Usage</li>
