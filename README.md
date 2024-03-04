@@ -16,7 +16,7 @@
 
 <p>Before you dive into the code, make sure you have the following prerequisites:</p>
 
-<p> **Node.js** : You'll need Node.js installed on your system. If you don't have it, download and install it from the official website.</p>
+<p> <b>Node.js</b> : You'll need Node.js installed on your system. If you don't have it, download and install it from the official website.</p>
 
 <h2>Installation</h2>
 
